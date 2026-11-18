@@ -19,13 +19,17 @@ const cookieName = 'pallabi_admin';
 const sessionSecret = process.env.SESSION_SECRET;
 let db;
 app.disable('x-powered-by');
-const allowedOrigins = String(process.env.CLIENT_ORIGIN || '')
-  .split(',')
-  .map(origin => origin.trim())
-  .filter(Boolean);
+const allowedOrigins = new Set([
+  'https://pallavi-tau.vercel.app',
+  'http://localhost:5173',
+  ...String(process.env.CLIENT_ORIGIN || '')
+    .split(',')
+    .map(origin => origin.trim())
+    .filter(Boolean)
+]);
 app.use(cors({
   origin(origin, callback) {
-    if (!origin || allowedOrigins.includes(origin)) return callback(null, true);
+    if (!origin || allowedOrigins.has(origin)) return callback(null, true);
     callback(new Error('Origin is not allowed.'));
   },
   credentials: true
