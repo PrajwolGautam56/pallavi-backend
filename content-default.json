@@ -1,0 +1,349 @@
+{
+  "homepage": {
+    "headlineNe": "सँगसँगै समृद्धितर्फ,\nहरेक पुस्ताका लागि।",
+    "headlineEn": "Growing together,\nwith every generation.",
+    "tickerNe": "पल्लवी सहकारीमा स्वागत छ — सेवा तथा कार्यालय समयका लागि सम्पर्क गर्नुहोस्।",
+    "tickerEn": "Welcome to Pallabi Cooperative — contact us for services and office hours.",
+    "aboutNe": "२०६० सालमा २३ जना सदस्यबाट नवदुर्गा बचत समूहका रूपमा सुरु भएको संस्था २०६८ सालमा पल्लवी बचत तथा ऋण सहकारी संस्था लिमिटेडका रूपमा दर्ता भयो। त्यसयता बचत, कर्जा, सहकारी शिक्षा र सामुदायिक पहलमार्फत सदस्यहरूको हितमा काम गर्दै आएको छ।",
+    "aboutEn": "Founded by 23 members in 2060 B.S. as Nava Durga Savings Group, the institution was registered as Pallabi Savings and Credit Cooperative Ltd. in 2068 B.S. Since then, it has served members through savings, credit, cooperative education and community initiatives.",
+    "chairMessageNe": "हाम्रा सदस्यहरूको सहकार्य र विश्वासले पल्लवी अघि बढेको छ। हाम्रो संस्था बचत र कर्जामा मात्रै सीमित छैन—सदस्यले सुरक्षित भविष्य बनाउन, परिवारको आवश्यकता पूरा गर्न र आफ्नै उद्यम अघि बढाउन भरोसा गर्ने साझा घर हो। हामी पारदर्शी सेवा, जिम्मेवार वित्तीय अभ्यास र समुदायको वास्तविक आवश्यकता सुन्ने संस्कृतिलाई प्राथमिकता दिन्छौं। शिक्षा, सदस्य कल्याण र स्थानीय विकासमा हाम्रो भूमिका अझ प्रभावकारी बनाउँदै लैजाने प्रतिबद्धता छ। पल्लवीप्रतिको तपाईंको विश्वास र सहभागिताका लागि धन्यवाद।",
+    "chairMessageEn": "Pallabi has grown because our members believe in working together. We are more than a place to save or borrow: we are a shared institution members can trust as they plan for their families, build livelihoods and grow local businesses. We put transparent service, responsible financial practice and listening to our community first. We will keep strengthening our work in education, member welfare and local development. Thank you for your continued trust and participation.",
+    "bannerImage": ""
+  },
+  "services": [
+    {
+      "titleNe": "बचत तथा निक्षेप",
+      "titleEn": "Savings & deposits",
+      "descriptionNe": "सदस्यका आवश्यकताअनुसारका निक्षेप सेवाबाट नियमित बचत गर्ने बानी बसाल्नुहोस्। उपलब्ध योजनाका लागि नजिकको शाखामा बुझ्नुहोस्।",
+      "descriptionEn": "Build a steady savings habit with member focused deposit services. Ask your nearest branch about available options.",
+      "icon": "↗"
+    },
+    {
+      "titleNe": "सदस्य कर्जा",
+      "titleEn": "Member loans",
+      "descriptionNe": "आयआर्जन, व्यवसाय र घरायसी आवश्यकतामा सहयोग पुर्‍याउने कर्जा सेवा। योग्यता र सर्तबारे हाम्रो कर्जा टोलीले जानकारी दिन्छ।",
+      "descriptionEn": "Credit access to support livelihood, business and household needs. Eligibility and terms are shared by our loan team.",
+      "icon": "⌂"
+    },
+    {
+      "titleNe": "डिजिटल सेवा तथा रेमिट्यान्स",
+      "titleEn": "Digital & remittance",
+      "descriptionNe": "बिल भुक्तानी, मोबाइल टपअप, रेमिट्यान्स र सदस्यका लागि उपयोगी अन्य सुविधाहरू।",
+      "descriptionEn": "Utility and mobile top ups, bill payments, remittance and other convenient services for members.",
+      "icon": "⇄"
+    },
+    {
+      "titleNe": "सदस्य कल्याण",
+      "titleEn": "Member welfare",
+      "descriptionNe": "शैक्षिक सम्मान, शोक सहयोग र आकस्मिक सदस्य सहयोगमार्फत समुदायसँगै अघि बढ्छौं।",
+      "descriptionEn": "Community support includes education recognition, bereavement assistance and emergency member support.",
+      "icon": "♡"
+    },
+    {
+      "titleNe": "बीमा तथा सुरक्षा",
+      "titleEn": "Insurance & protection",
+      "descriptionNe": "सहकारीमार्फत उपलब्ध सदस्य सुरक्षा तथा बीमा सहयोगबारे हाम्रो टोलीसँग बुझ्नुहोस्।",
+      "descriptionEn": "Ask our team about the member protection and insurance support currently available through the cooperative.",
+      "icon": "♡"
+    },
+    {
+      "titleNe": "तालिम तथा परामर्श",
+      "titleEn": "Training & guidance",
+      "descriptionNe": "वित्तीय साक्षरता र उद्यमशीलता तालिमले सदस्यलाई जानकारीपूर्ण निर्णय र दिगो प्रगतिमा सहयोग गर्छ।",
+      "descriptionEn": "Financial awareness and livelihood training help members make informed decisions and grow sustainably.",
+      "icon": "✦"
+    }
+  ],
+  "branches": [
+    {
+      "nameNe": "शितलनगर",
+      "nameEn": "Shitalnagar",
+      "type": "HEAD OFFICE",
+      "addressNe": "देवदह ७, रुपन्देही, लुम्बिनी प्रदेश",
+      "addressEn": "Devdaha 7, Rupandehi, Lumbini Province",
+      "phone": "071-577630",
+      "mobile": "9802609412",
+      "map": "https://maps.app.goo.gl/EibUbinuPTc3vHJS6"
+    },
+    {
+      "nameNe": "भवानीपुर",
+      "nameEn": "Bhawanipur",
+      "type": "BRANCH",
+      "addressNe": "देवदह ४, रुपन्देही",
+      "addressEn": "Devdaha 4, Rupandehi",
+      "phone": "",
+      "mobile": "9802609415",
+      "map": "https://maps.google.com/?q=27.624011,83.565601"
+    },
+    {
+      "nameNe": "चरङ्गे",
+      "nameEn": "Charange",
+      "type": "BRANCH",
+      "addressNe": "देवदह १०, रुपन्देही",
+      "addressEn": "Devdaha 10, Rupandehi",
+      "phone": "",
+      "mobile": "9802609416",
+      "map": "https://maps.google.com/?q=27.6807297,83.5045547"
+    },
+    {
+      "nameNe": "ढेकावर",
+      "nameEn": "Dhekawor",
+      "type": "BRANCH",
+      "addressNe": "देवदह १, छ नम्बर, रुपन्देही",
+      "addressEn": "Devdaha 1, Six Number, Rupandehi",
+      "phone": "",
+      "mobile": "9802609417",
+      "map": "https://maps.google.com/?q=27.592184,83.573693"
+    },
+    {
+      "nameNe": "खैरेनी",
+      "nameEn": "Khaireni",
+      "type": "BRANCH",
+      "addressNe": "देवदह ७, रुपन्देही",
+      "addressEn": "Devdaha 7, Rupandehi",
+      "phone": "",
+      "mobile": "9802609418",
+      "map": "https://maps.google.com/?q=27.643722,83.593102"
+    }
+  ],
+  "board": [
+    {
+      "nameNe": "मीना श्रेष्ठ",
+      "nameEn": "Mina Shrestha",
+      "roleNe": "अध्यक्ष",
+      "roleEn": "Chairperson",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549155/pallabi-cooperative/board/mina_shrestha.jpg"
+    },
+    {
+      "nameNe": "गोमा दुम्रे",
+      "nameEn": "Goma Dumre",
+      "roleNe": "उपाध्यक्ष",
+      "roleEn": "Vice Chairperson",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549153/pallabi-cooperative/board/GOMA_DUMRE_PHOTO.jpg"
+    },
+    {
+      "nameNe": "पूर्णप्रसाद पौडेल",
+      "nameEn": "Purna Prasad Poudel",
+      "roleNe": "सचिव",
+      "roleEn": "Secretary",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549157/pallabi-cooperative/board/purna_pd_poudel.jpg"
+    },
+    {
+      "nameNe": "ईश्वरी न्यौपाने",
+      "nameEn": "Ishwari Neupane",
+      "roleNe": "कोषाध्यक्ष",
+      "roleEn": "Treasurer",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549155/pallabi-cooperative/board/inshwari_neupane.jpg"
+    },
+    {
+      "nameNe": "पोम बहादुर जी.सी.",
+      "nameEn": "Pom Bahadur GC",
+      "roleNe": "सदस्य",
+      "roleEn": "Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549157/pallabi-cooperative/board/pom_gc.jpg"
+    },
+    {
+      "nameNe": "बिष्णु प्रसाद ज्ञवाली",
+      "nameEn": "Bishnu Prasad Gyawali",
+      "roleNe": "सदस्य",
+      "roleEn": "Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549153/pallabi-cooperative/board/bishnu_pd_gyawali.jpg"
+    },
+    {
+      "nameNe": "खेम नारायण ढकाल",
+      "nameEn": "Khem Narayan Dhakal",
+      "roleNe": "सदस्य",
+      "roleEn": "Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549155/pallabi-cooperative/board/khem_narayan_dhakal.jpg"
+    },
+    {
+      "nameNe": "रेणुका पाण्डेय",
+      "nameEn": "Renuka Pandey",
+      "roleNe": "सदस्य",
+      "roleEn": "Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549157/pallabi-cooperative/board/renuka_pandey.jpg"
+    },
+    {
+      "nameNe": "धनकुमारी सापकोटा",
+      "nameEn": "Dhan Kumari Sapkota",
+      "roleNe": "सदस्य",
+      "roleEn": "Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549153/pallabi-cooperative/board/dhan_ku_sapkota.jpg"
+    },
+    {
+      "nameNe": "नामदेव अर्याल",
+      "nameEn": "Namdev Aryal",
+      "roleNe": "लेखा संयोजक",
+      "roleEn": "Audit Coordinator",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549155/pallabi-cooperative/board/namdev_aryal.jpg"
+    },
+    {
+      "nameNe": "इन्दिरा पाण्डेय",
+      "nameEn": "Indira Pandey",
+      "roleNe": "लेखा सदस्य",
+      "roleEn": "Audit Member",
+      "photo": ""
+    },
+    {
+      "nameNe": "शालिग्राम तिवारी",
+      "nameEn": "Saligram Tiwari",
+      "roleNe": "लेखा सदस्य",
+      "roleEn": "Audit Member",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549157/pallabi-cooperative/board/saligram_tiwari.jpg"
+    }
+  ],
+  "management": [
+    {
+      "nameNe": "केशव आचार्य",
+      "nameEn": "Keshab Acharya",
+      "roleNe": "व्यवस्थापक",
+      "roleEn": "Manager",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549147/pallabi-cooperative/management/keshab_sir.jpg"
+    },
+    {
+      "nameNe": "सुबास पाण्डेय",
+      "nameEn": "Subash Pandey",
+      "roleNe": "वरिष्ठ सहायक तथा सूचना अधिकारी",
+      "roleEn": "Senior Assistant & Information Officer",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549150/pallabi-cooperative/management/subash_pandey.jpg"
+    },
+    {
+      "nameNe": "बलराम पाण्डेय",
+      "nameEn": "Balram Pandey",
+      "roleNe": "ऋण विभाग प्रमुख",
+      "roleEn": "Loan Department Chief",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549145/pallabi-cooperative/management/balram_pandey.jpg"
+    },
+    {
+      "nameNe": "रिता बस्याल",
+      "nameEn": "Rita Bashyal",
+      "roleNe": "सदस्य सेवा विभाग प्रमुख",
+      "roleEn": "Member Service Chief",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549148/pallabi-cooperative/management/rita_bashyal.jpg"
+    },
+    {
+      "nameNe": "मनिषा अधिकारी",
+      "nameEn": "Manisha Adhikari",
+      "roleNe": "ऋण सहायक",
+      "roleEn": "Loan Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549147/pallabi-cooperative/management/manesha.jpg"
+    },
+    {
+      "nameNe": "कोपिला घर्ती",
+      "nameEn": "Kopila Gharti",
+      "roleNe": "शाखा इन्चार्ज",
+      "roleEn": "Branch Incharge",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549147/pallabi-cooperative/management/kopila_gharti.jpg"
+    },
+    {
+      "nameNe": "तिलादेवी खत्री",
+      "nameEn": "Teeladevi Khatri",
+      "roleNe": "कार्यालय सहायक",
+      "roleEn": "Office Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549151/pallabi-cooperative/management/teeladevi_khatri.jpg"
+    },
+    {
+      "nameNe": "बन्दना जी.सी.",
+      "nameEn": "Bandana GC",
+      "roleNe": "कार्यालय सहायक",
+      "roleEn": "Office Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549145/pallabi-cooperative/management/bandana_gc.jpg"
+    },
+    {
+      "nameNe": "अञ्जना खड्का",
+      "nameEn": "Anjana Khadka",
+      "roleNe": "शाखा इन्चार्ज",
+      "roleEn": "Branch Incharge",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549145/pallabi-cooperative/management/anjana_khadka.jpg"
+    },
+    {
+      "nameNe": "कल्पना चपाईं अर्याल",
+      "nameEn": "Kalpana Chapai Aryal",
+      "roleNe": "शाखा इन्चार्ज",
+      "roleEn": "Branch Incharge",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549145/pallabi-cooperative/management/kalpana_chapai_aryal.jpg"
+    },
+    {
+      "nameNe": "शोभा भट्टराई",
+      "nameEn": "Shova Bhattarai",
+      "roleNe": "शाखा इन्चार्ज",
+      "roleEn": "Branch Incharge",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549150/pallabi-cooperative/management/shova_bhatatrai.jpg"
+    },
+    {
+      "nameNe": "सुष्मा आले",
+      "nameEn": "Sushma Ale",
+      "roleNe": "बजार सहायक",
+      "roleEn": "Field Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549150/pallabi-cooperative/management/sushma_ale.jpg"
+    },
+    {
+      "nameNe": "प्रतिक्षा पौडेल",
+      "nameEn": "Pratikshya Poudel",
+      "roleNe": "बजार सहायक",
+      "roleEn": "Field Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549148/pallabi-cooperative/management/pratikshya_poudel.jpg"
+    },
+    {
+      "nameNe": "सन्तोष कुमार यादव",
+      "nameEn": "Santosh Kumar Yadav",
+      "roleNe": "कनिष्ठ बजार सहायक",
+      "roleEn": "Junior Field Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549150/pallabi-cooperative/management/santosh_kumar_yadav.jpg"
+    },
+    {
+      "nameNe": "नबिना भण्डारी",
+      "nameEn": "Nabina Bhandari",
+      "roleNe": "कनिष्ठ बजार सहायक",
+      "roleEn": "Junior Field Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549147/pallabi-cooperative/management/nabina_bhandari.jpg"
+    },
+    {
+      "nameNe": "प्रवेश अदै",
+      "nameEn": "Prabesh Adai",
+      "roleNe": "कनिष्ठ बजार सहायक",
+      "roleEn": "Junior Field Assistant",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549148/pallabi-cooperative/management/prabesh_adai.jpg"
+    },
+    {
+      "nameNe": "रिता गुरुङ",
+      "nameEn": "Rita Gurung",
+      "roleNe": "कार्यालय सहयोगी",
+      "roleEn": "Office Helper",
+      "branch": "",
+      "photo": "https://res.cloudinary.com/v0wsom2n/image/upload/v1794549148/pallabi-cooperative/management/rita_gurung.jpg"
+    }
+  ],
+  "committees": [],
+  "notices": [],
+  "publications": [],
+  "gallery": [],
+  "careers": [],
+  "csr": [],
+  "pages": [],
+  "settings": {
+    "phone": "071-577630",
+    "mobile": "9802609412",
+    "email": "pallabisahakari@gmail.com",
+    "facebook": "https://www.facebook.com/pallabi.sahakari",
+    "map": "https://maps.app.goo.gl/EibUbinuPTc3vHJS6",
+    "officeHoursNe": "सोमबारदेखि शुक्रबार · बिहान ९–५ (माघ १६–कार्तिक १५)\nसोमबारदेखि शुक्रबार · बिहान ९–४ (कार्तिक १६–माघ १५)",
+    "officeHoursEn": "Monday to Friday · 9:00 AM–5:00 PM (Magh 16–Kartik 15)\nMonday to Friday · 9:00 AM–4:00 PM (Kartik 16–Magh 15)"
+  }
+}
